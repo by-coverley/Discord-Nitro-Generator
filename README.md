@@ -6,3 +6,4 @@ More:https://discord.gg/nVpVmSnJ && https://discord.gg/E4QuVaRR4x
 
 What you need:
 Python 3.10.1
+Windows 10
