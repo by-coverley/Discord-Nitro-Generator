@@ -62,12 +62,14 @@ class NitroGen:  # Initialise the class
             print(f'\33]0;Nitro Generator and Checker - Made by ErenPRO#2414\a',
                   end='', flush=True)  # Update title of command prompt
         print(""" 
-  _____                    _      ________     __
- / ____|                  | |    |  ____\ \   / /
-| |     _____   _____ _ __| |    | |__   \ \_/ / 
-| |    / _ \ \ / / _ \ '__| |    |  __|   \   /  
-| |___| (_) \ V /  __/ |  | |____| |____   | |   
- \_____\___/ \_/ \___|_|  |______|______|  |_|      
+
+  _____                         _       ______ __     __
+ / ____|                       | |     |  ____|\ \   / /
+| |      ___ __   __ ___  _ __ | |     | |__    \ \_/ / 
+| |     / _ \\ \ / // _ \| '__|| |     |  __|    \   /  
+| |____| (_) |\ V /|  __/| |   | |____ | |____    | |   
+ \_____|\___/  \_/  \___||_|   |______||______|   |_|   
+                                                            
 """)  # Print the title card
         time.sleep(2)  # Wait a few seconds
         # Print who developed the code
