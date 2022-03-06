@@ -9,3 +9,7 @@ Discord Nitro Generator and Checker
  \_____\___/ \_/ \___|_|  |______|______|  |_|    
  
 Copyright (c) 2021 ErenPRO#2414 && CoverLEY#0279 bycoverley@hotmail.com
+More:https://discord.gg/nVpVmSnJ && https://discord.gg/E4QuVaRR4x
+
+What you need:
+Python 3.10.0
